@@ -1,0 +1,1 @@
+This folder contains background color codes used in code.
